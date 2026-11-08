@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=System Monitor Widget
+Comment=Transparent desktop system monitor
+Exec=sysmon
+Icon=utilities-system-monitor
+Categories=System;Monitor;
+StartupWMClass=sysmon

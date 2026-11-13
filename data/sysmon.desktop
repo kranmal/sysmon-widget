@@ -3,6 +3,6 @@ Type=Application
 Name=System Monitor Widget
 Comment=Transparent desktop system monitor
 Exec=sysmon
-Icon=utilities-system-monitor
+Icon=sysmon
 Categories=System;Monitor;
 StartupWMClass=sysmon
